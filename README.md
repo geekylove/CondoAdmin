@@ -1,6 +1,9 @@
 CondoAdmin
 ==========
-"!https://codeclimate.com/github/geekylove/CondoAdmin/badges/gpa.svg!":https://codeclimate.com/github/geekylove/CondoAdmin
+
+
+<img src="https://codeclimate.com/github/geekylove/CondoAdmin/badges/gpa.svg" />
+
 
 Now tenants can see their unpaid bills online
 
