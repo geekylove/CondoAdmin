@@ -1,6 +1,6 @@
-CondoAdmin <br>
-(Made in Malaysia)
+CondoAdmin 
 ==========
+(Made in Malaysia)
 
 
 <img src="https://codeclimate.com/github/geekylove/CondoAdmin/badges/gpa.svg" />
